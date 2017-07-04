@@ -1,0 +1,8 @@
+{
+    "staging": {
+        "app_function": "dubsmash_email_validation.app",
+        "aws_region": "eu-west-1",
+        "profile_name": "default",
+        "s3_bucket": "<put_your_s3_bucket_here>"
+    }
+}

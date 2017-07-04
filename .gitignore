@@ -1,0 +1,4 @@
+*.pyc
+zappa_settings.json
+.DS_Store
+.idea
